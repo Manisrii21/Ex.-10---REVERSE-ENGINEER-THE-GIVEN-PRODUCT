@@ -34,7 +34,8 @@
 ![4](https://github.com/Manisrii21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140163/bfc3be32-75aa-4cca-9cac-645a16ee306c)
 
 ### Output:
-https://github.com/Manisrii21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER.git
+![04](https://github.com/Manisrii21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140163/6a20d0e9-fb8b-443b-bd43-c363f5da852a)
+
 
 ### Name: MANI SRI LATHA.M
 
