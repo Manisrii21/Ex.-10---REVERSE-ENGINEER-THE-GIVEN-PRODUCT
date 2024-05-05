@@ -1,4 +1,4 @@
-# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 29.4.2024
 
@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Adchayakiruthika18/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147139995/ec924015-83f4-4180-8ae6-9ca05bb2d176)
+![4](https://github.com/Manisrii21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140163/bfc3be32-75aa-4cca-9cac-645a16ee306c)
 
 ### Output:
-![image](https://github.com/Adchayakiruthika18/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147139995/02ea09ad-2323-4974-90af-b2e1a3c364cf)
+https://github.com/Manisrii21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER.git
 
 ### Name: MANI SRI LATHA.M
 
